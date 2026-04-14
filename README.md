@@ -1,4 +1,5 @@
 **TO YOUR LIGTH**
+
 This project is an atmospheric 2D Technical Demo that showcases the core mechanics and visual identity of a narrative-driven platformer. Developed with a focus on dark aesthetics and scalable code architecture, it serves as a foundation for a full-scale game featuring complex AI and environmental hazards.
 
 **Demo Features**
