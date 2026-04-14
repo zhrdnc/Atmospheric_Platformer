@@ -32,6 +32,11 @@ Jump / Double Jump : Space
 **Art & Assets:** Krita (Hand-drawn silhouette style)
 
 
+**SCREENSHOTS**
+<img width="959" height="532" alt="Ekran görüntüsü 2026-04-14 232544" src="https://github.com/user-attachments/assets/a4f47129-1df9-45c7-b0e8-020289604b70" />
+<img width="955" height="529" alt="Ekran görüntüsü 2026-04-14 232442" src="https://github.com/user-attachments/assets/56ac897e-5711-4f41-a3dc-e6cc5c45ff1c" />
+
+
 
 **ROADMAP & FUTURE ENHANCEMENTS**
 
